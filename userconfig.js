@@ -59,6 +59,7 @@ const default_config = {
             },
           ],
         },
+        {
             name: "development",
             links: [
             {
@@ -68,6 +69,7 @@ const default_config = {
               icon_color: palette.green,
             },
           ],
+        },
       ],
     },
     {
