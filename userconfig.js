@@ -57,18 +57,17 @@ const default_config = {
               icon: "brand-google-drive",
               icon_color: palette.blue,
             },
-
-              name: "development",
-              links: [
+          ],
+        },
+            name: "development",
+            links: [
             {
               name: "github",
               url: "https://github.com",
               icon: "brand-github",
               icon_color: palette.green,
             },
-            ],
           ],
-        },
       ],
     },
     {
